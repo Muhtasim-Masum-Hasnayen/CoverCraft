@@ -56,6 +56,3 @@ CoverCraft aims to make academic document preparation faster, easier, and more c
 
 Suggestions, bug reports, and contributions are welcome.
 
-## 📄 License
-
-Add your preferred open-source license here if applicable.
