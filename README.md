@@ -1,7 +1,7 @@
 # CoverCraft — Milestone 1 (guest mode)
 
 Guest mode only. No login, payments, AI writing or cloud storage.
-
+Live : https://cover-craft-chi.vercel.app
 ## Status
 - Backend (tested here): validation, 6 templates, PDF (ReportLab) + DOCX (python-docx), logo validation, filename sanitising. 28 tests run and pass; 8 API tests are skipped here because fastapi/httpx could not be installed offline.
 - Written but NOT run or built here: `backend/main.py` (FastAPI) and the whole `frontend/` (Next.js). No npm install, type-check or `next build` has been done, so expect to fix small errors on first run.
