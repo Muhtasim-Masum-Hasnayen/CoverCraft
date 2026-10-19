@@ -2,7 +2,7 @@
 
 **Create professional academic assignment cover pages in seconds.**
 
-CoverCraft is a web-based assignment cover page generator built with Next.js. It helps students create clean, professional, and customizable cover pages for academic assignments without the hassle of manual formatting.
+CoverCraft is a web-based assignment cover page generator for Assignment, report and so on built with Next.js. It helps students create clean, professional, and customizable cover pages for academic assignments without the hassle of manual formatting.
 
 🌐 **Live Demo:** https://cover-craft-chi.vercel.app
 
